@@ -1,4 +1,5 @@
 # Getting Started
+# Editado por Genarius
 
 ## Windows
 
